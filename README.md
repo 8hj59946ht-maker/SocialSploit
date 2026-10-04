@@ -14,7 +14,7 @@
 #### ● SocialSploit es un framework de phishing que nos ayuda a hackear con ngrok y serveo :3 
 #### ● se trata de ingeniería social recuerda esto no me hago responsable del mal uso
        
-       requisitos ->  curl, php, ssh, python2 y wget
+         requisitos ->  curl, php, ssh,python2 y wget
        
   
 # SocialSploit 
